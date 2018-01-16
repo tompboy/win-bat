@@ -1,0 +1,3 @@
+@echo Backup %1......
+@%SVN_HOME%\bin\svnadmin hotcopy %1 %BACKUP_DIRECTORY%\%2
+@echo Resp%1成功备份到了%2！

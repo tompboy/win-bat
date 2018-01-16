@@ -1,0 +1,1 @@
+start "C:/Program Files/Microsoft SQL Server/100/Tools/Binn/SQLCMD.EXE -S 192.168.1.2 -U test -P test1 -d ds0270087_t -Q"BACKUP DATABASE [ds0270087_t] to disk='D:/backup_db/ds0270087_t.bak'"
